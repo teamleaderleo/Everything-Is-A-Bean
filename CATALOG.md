@@ -137,9 +137,7 @@ The service generates commands for X/Y motion and servo position and sends them 
 **Evidence:**
 
 - Repository: https://github.com/xmaiax-org/brutalcraft
-- Renderer source: https://github.com/xmaiax-org/brutalcraft/blob/master/src/main/java/org/brutalcraft/graphics/Renderer2D.java
-
-If the source path changes, search the repository for `class Renderer2D` and `org.springframework.stereotype.Component`.
+- Renderer source: https://github.com/xmaiax-org/brutalcraft/blob/cedacdcde80a827efef22d5c668089b941ebcbb4/src/main/java/com/github/xmaiax/renderer/Renderer2D.java
 
 **Signature crime:** `glDrawArrays(...)`, but enterprise.
 
