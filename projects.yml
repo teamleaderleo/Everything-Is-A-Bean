@@ -60,9 +60,9 @@ projects:
     repo: "https://github.com/xmaiax-org/brutalcraft"
     category: "graphics engine"
     curse_level: 4
-    summary: "A Java + LWJGL3 + Spring Boot game engine with Spring-managed OpenGL rendering code."
+    summary: "A Java + LWJGL3 + Spring Boot game engine with a Spring-managed OpenGL Renderer2D."
     evidence:
-      - "https://github.com/xmaiax-org/brutalcraft"
+      - "https://github.com/xmaiax-org/brutalcraft/blob/cedacdcde80a827efef22d5c668089b941ebcbb4/src/main/java/com/github/xmaiax/renderer/Renderer2D.java"
 
   - name: "EduardoSaverin/KeyDB"
     repo: "https://github.com/EduardoSaverin/KeyDB"
